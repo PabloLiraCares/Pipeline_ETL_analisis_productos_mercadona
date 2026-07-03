@@ -1,11 +1,6 @@
 # 🛒 Pipeline ETL y Análisis de Productos (Mercadona & Open Food Facts)
 
-<p align="left">
-  <code><img src="https://githubusercontent.com" alt="python" width="30" height="30"/> Python</code> &nbsp;
-  <code><img src="https://githubusercontent.com" alt="pandas" width="30" height="30"/> Pandas</code> &nbsp;
-  <code><img src="https://githubusercontent.com" alt="aws" width="35" height="35"/> AWS (S3, Glue, Athena)</code> &nbsp;
-  <code><img src="https://githubusercontent.com" alt="pyspark" width="30" height="30"/> PySpark</code> &nbsp;
-</p>
+[![Python](https://shields.io)](https://github.com) [![Pandas](https://shields.io)](https://github.com) [![AWS](https://shields.io)](https://github.com) [![PySpark](https://shields.io)](https://github.com)
 
 ## 🎯 Objetivo del Proyecto
 El objetivo de este proyecto es construir un **dataset real y enriquecido** de productos de supermercado (datos obtenidos mediante las APIs de Mercadona y Open Food Facts) que integre información tanto nutricional como comercial.
